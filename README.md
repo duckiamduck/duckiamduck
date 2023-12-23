@@ -22,7 +22,7 @@
 <div>
     <span align="right">
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decade-qiu&layout=compact&langs_count=6&bg_color=E6E6FA" alt="C++ TOP 1">
-      <img width="170" align="right" src="https://github-profile-trophy.vercel.app/?username=Decade-qiu&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2">
+      <img width="170" height="165" align="right" src="https://github-profile-trophy.vercel.app/?username=Decade-qiu&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2">
   </span>  
   <span align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
