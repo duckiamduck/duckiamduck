@@ -9,39 +9,48 @@
 </h1>
 
 <img align="right" width="180" src="https://camo.githubusercontent.com/079898beb1cec834a67fae263852409702835e991e520c590dc28349c7601a85/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67">
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-  - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-  - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-  - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+  - 🤔 &nbsp; Learning web development, focusing on JavaScript and popular front-end and back-end frameworks.
+  - 🎓 &nbsp; Currently pursuing a Master's degree in Software Engineering at Soochow University.
+  - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Network traffic measurement.
+  - ✍️ &nbsp; Enjoys reading novels and writing essays in leisure time.
 
+<h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
-<div style="margin: 10px 0; font-size: 0;">
-    <span align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decade-qiu&layout=compact&langs_count=6&bg_color=E6E6FA" alt="C++ TOP 1">
+<div>
+    <span align="right">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decade-qiu&layout=compact&langs_count=6&bg_color=E6E6FA" alt="C++ TOP 1">
+      <img width="170" align="right" src="https://github-profile-trophy.vercel.app/?username=Decade-qiu&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2">
   </span>  
-  <span align="right">
-    <p>📧 Email: your@email.com</p>
-    <p>🌐 GitHub: <a href="https://github.com/Decade-qiu">https://github.com/Decade-qiu</a></p>
-    <p>📘 LinkedIn: <a href="https://www.linkedin.com/in/yourusername/">https://www.linkedin.com/in/yourusername/</a></p>
-    <p>🐦 Twitter: <a href="https://twitter.com/yourusername">https://twitter.com/yourusername</a></p>
-    <p>📝 Blog: <a href="https://yourblog.com">https://yourblog.com</a></p>
+  <span align="left">
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <a href="https://github.com/Decade-qiu" target="_blank">
+        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=lukasmayer83593@gmail.com">
+      </a>
+    </p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://github.com/Decade-qiu" target="_blank">
+        <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Decade-qiu">
+      </a>
+    </p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://www.zhihu.com/people/chou-yu-80-33" target="_blank">
+        <img src="https://img.shields.io/badge/Zhihu-blue?style=social&logo=zhihu&label=Decade">
+      </a>
+    </p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://decade.net.cn" target="_blank">
+        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  Decade">
+      </a>
+    </p>
   </span>
 </div>
 
-
-
-
-
-
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Decade-qiu&theme=github-compact&custom_title=Activity&radius=30&height=300" alt="Lazy">
-
-
+<!-- <img src="https://streak-stats.demolab.com/?user=Decade-qiu"> -->
+<p> &nbsp;</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Decade-qiu&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 
 
