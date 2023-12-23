@@ -12,7 +12,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-  - 🤔 &nbsp; Learning web development, focusing on JavaScript and popular front-end and back-end frameworks.
+  - 🤔 &nbsp; Learning web development, focusing on JavaScript and popular front-end frameworks.
   - 🎓 &nbsp; Currently pursuing a Master's degree in Software Engineering at Soochow University.
   - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Network traffic measurement.
   - ✍️ &nbsp; Enjoys reading novels and writing essays in leisure time.
