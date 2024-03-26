@@ -36,7 +36,7 @@
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://moiblog.cn/" target="_blank">
-        <img src="https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white">
+        <img src="https://img.shields.io/badge/blog-white?style=social&logo=blog&label=Moiblog">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
